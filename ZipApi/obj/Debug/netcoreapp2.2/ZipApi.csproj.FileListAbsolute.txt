@@ -1,0 +1,14 @@
+C:\Users\hian\ZipApi\bin\Debug\netcoreapp2.2\ZipApi.deps.json
+C:\Users\hian\ZipApi\bin\Debug\netcoreapp2.2\ZipApi.runtimeconfig.json
+C:\Users\hian\ZipApi\bin\Debug\netcoreapp2.2\ZipApi.runtimeconfig.dev.json
+c:\Users\hian\ZipApi\bin\Debug\netcoreapp2.2\ZipApi.dll
+c:\Users\hian\ZipApi\bin\Debug\netcoreapp2.2\ZipApi.pdb
+c:\Users\hian\ZipApi\obj\Debug\netcoreapp2.2\ZipApi.csprojAssemblyReference.cache
+c:\Users\hian\ZipApi\obj\Debug\netcoreapp2.2\ZipApi.csproj.CoreCompileInputs.cache
+c:\Users\hian\ZipApi\obj\Debug\netcoreapp2.2\ZipApi.RazorAssemblyInfo.cache
+c:\Users\hian\ZipApi\obj\Debug\netcoreapp2.2\ZipApi.RazorAssemblyInfo.cs
+c:\Users\hian\ZipApi\obj\Debug\netcoreapp2.2\ZipApi.AssemblyInfoInputs.cache
+c:\Users\hian\ZipApi\obj\Debug\netcoreapp2.2\ZipApi.AssemblyInfo.cs
+c:\Users\hian\ZipApi\obj\Debug\netcoreapp2.2\ZipApi.RazorTargetAssemblyInfo.cache
+c:\Users\hian\ZipApi\obj\Debug\netcoreapp2.2\ZipApi.dll
+c:\Users\hian\ZipApi\obj\Debug\netcoreapp2.2\ZipApi.pdb
